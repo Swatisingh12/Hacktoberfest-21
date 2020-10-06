@@ -2,4 +2,6 @@ Some vector STL---
 
 vector<int>a;
 
-sort(a.begin(),a.end());    // sort a vector
+sort(a.begin(),a.end());             // sort a vector
+
+reverse(a.begin(),a.end());          // reverse a vector

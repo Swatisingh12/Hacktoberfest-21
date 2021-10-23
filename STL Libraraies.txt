@@ -3,3 +3,4 @@ Some vector STL---
 vector<int>a;
 
 sort(a.begin(),a.end());    // sort a vector
+sort(a.begin(),a.end(),greater<>);  // sort a vector in descending order
